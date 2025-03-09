@@ -34,7 +34,7 @@ A cutting-edge financial technology platform built with React, featuring modern 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/balkishan69/finolity.git
+   git clone https://github.com/balkishan69/intelion_landingPage.git
    ```
 
 2. Navigate to the project directory:
@@ -92,7 +92,7 @@ finolity/
 Create a `.env` file in the root directory:
 
 ```env
-VITE_APP_TITLE=Finolity
+VITE_APP_TITLE=intelion
 VITE_API_URL=your_api_url
 ```
 
@@ -123,9 +123,6 @@ The application is fully responsive with breakpoints:
 - [ ] Enhance accessibility features
 - [ ] Add more language support
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
@@ -134,7 +131,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📞 Support
-
-For support, email support@finolity.com or join our Slack channel.
